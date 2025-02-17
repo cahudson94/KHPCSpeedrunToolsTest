@@ -45,6 +45,8 @@ For Open KH Mod Manager this step is taken care of for you by the install and bu
 
 ## <a name="rfiles"></a>Rando Files
 
+### LuaBackend and OpenKH
+
 The last part to ensure proper running is to create and optionally populate the `randofiles` folder. This will be going in the previously discussed `install folder` if you closed that window from the previous steps here is how to get there again:
 
 - Locate your game install folder:
@@ -70,6 +72,16 @@ For Steam that would look like this:
 ![image](images/steam_install.png)
 
 Now if you are playing on english all that is left is to create a new folder here and call it `randofiles`. This will be where all generated files are stored.
+
+Optional: If you are playing on French, German, or Spanish there is some support for the translated names of things. Copy the language specific `.txt` file from the repository `randofiles` folder found [here](1FMMods/randofiles) into the newly created folder.
+
+### LuaFrontend
+
+The last part to ensure proper running is to create and optionally populate the `randofiles` folder. This will go in the LuaFrontend folder on the same level as the LuaFrontend `.exe` file.
+
+This should look like this:
+
+![image](images/lua_frontend_randofiles.png)
 
 Optional: If you are playing on French, German, or Spanish there is some support for the translated names of things. Copy the language specific `.txt` file from the repository `randofiles` folder found [here](1FMMods/randofiles) into the newly created folder.
 
