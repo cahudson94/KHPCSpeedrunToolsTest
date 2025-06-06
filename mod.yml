@@ -92,7 +92,7 @@ assets:
   source:
     - name: 1FMMods/scripts/io_packages/VersionCheck.lua
 
-# control files for KH2
+## control files for KH2
 - name: scripts/io_packages/EGSGlobal_1_0_0_8.lua
   method: copy
   game: "kh2"
