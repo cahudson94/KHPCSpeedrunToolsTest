@@ -14,7 +14,7 @@ assets:
 - name: scripts/1fm1HP.lua
   method: copy
   game: "kh1"
-  # collectionOptional: true
+  collectionOptional: true
   source:
     - name: 1FMMods/scripts/1fm1HP.lua
 - name: scripts/io_packages/Rando/chests.lua
