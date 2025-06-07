@@ -11,17 +11,17 @@ collectionGames:
 assets:
 
 ## control files for KH1
+- name: scripts/io_packages/Rando/chests.lua
+  method: copy
+  game: "kh1"
+  source:
+    - name: 1FMMods/scripts/io_packages/Rando/chests.lua
 - name: scripts/1fm1HP.lua
   method: copy
   game: "kh1"
   collectionOptional: true
   source:
     - name: 1FMMods/scripts/1fm1HP.lua
-- name: scripts/io_packages/Rando/chests.lua
-  method: copy
-  game: "kh1"
-  source:
-    - name: 1FMMods/scripts/io_packages/Rando/chests.lua
 - name: scripts/io_packages/Rando/enemyTables.lua
   method: copy
   game: "kh1"
