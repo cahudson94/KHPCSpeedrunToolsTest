@@ -23,6 +23,102 @@ assets:
   collectionOptional: true
   source:
     - name: 1FMMods/scripts/1fm4By3.lua
+- name: scripts/1fmAchievements.lua
+  method: copy
+  game: "kh1"
+  collectionOptional: true
+  source:
+    - name: 1FMMods/scripts/1fmAchievements.lua
+- name: scripts/1fmAutoattack.lua
+  method: copy
+  game: "kh1"
+  collectionOptional: true
+  source:
+    - name: 1FMMods/scripts/1fmAutoattack.lua
+- name: scripts/1fmBeepHack.lua
+  method: copy
+  game: "kh1"
+  collectionOptional: true
+  source:
+    - name: 1FMMods/scripts/1fmBeepHack.lua
+- name: scripts/1fmChaos.lua
+  method: copy
+  game: "kh1"
+  collectionOptional: true
+  source:
+    - name: 1FMMods/scripts/1fmChaos.lua
+- name: scripts/1fmConsistentFinishers.lua
+  method: copy
+  game: "kh1"
+  collectionOptional: true
+  source:
+    - name: 1FMMods/scripts/1fmConsistentFinishers.lua
+- name: scripts/1fmEarlySkip.lua
+  method: copy
+  game: "kh1"
+  collectionOptional: true
+  source:
+    - name: 1FMMods/scripts/1fmEarlySkip.lua
+- name: scripts/1fmEnemyRando.lua
+  method: copy
+  game: "kh1"
+  collectionOptional: true
+  source:
+    - name: 1FMMods/scripts/1fmEnemyRando.lua
+- name: scripts/1fmFastCamera.lua
+  method: copy
+  game: "kh1"
+  collectionOptional: true
+  source:
+    - name: 1FMMods/scripts/1fmFastCamera.lua
+- name: scripts/1fmFasterAnims.lua
+  method: copy
+  game: "kh1"
+  collectionOptional: true
+  source:
+    - name: 1FMMods/scripts/1fmFasterAnims.lua
+- name: scripts/1fmFasterDialogue.lua
+  method: copy
+  game: "kh1"
+  collectionOptional: true
+  source:
+    - name: 1FMMods/scripts/1fmFasterDialogue.lua
+- name: scripts/1fmHookShip.lua
+  method: copy
+  game: "kh1"
+  collectionOptional: true
+  source:
+    - name: 1FMMods/scripts/1fmHookShip.lua
+- name: scripts/1fmInstantGummi.lua
+  method: copy
+  game: "kh1"
+  collectionOptional: true
+  source:
+    - name: 1FMMods/scripts/1fmInstantGummi.lua
+- name: scripts/1fmRandoSomeLogic.lua
+  method: copy
+  game: "kh1"
+  collectionOptional: true
+  source:
+    - name: 1FMMods/scripts/1fmRandoSomeLogic.lua
+- name: scripts/1fmSaveAnywhere.lua
+  method: copy
+  game: "kh1"
+  collectionOptional: true
+  source:
+    - name: 1FMMods/scripts/1fmSaveAnywhere.lua
+- name: scripts/1fmUnlock0Volume.lua
+  method: copy
+  game: "kh1"
+  collectionOptional: true
+  source:
+    - name: 1FMMods/scripts/1fmUnlock0Volume.lua
+- name: scripts/1fmUnskippable.lua
+  method: copy
+  game: "kh1"
+  collectionOptional: true
+  source:
+    - name: 1FMMods/scripts/1fmUnskippable.lua
 - name: scripts/io_packages/Rando/chests.lua
   method: copy
   game: "kh1"
